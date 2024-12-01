@@ -2,7 +2,7 @@
 
 #### 🔭 I am working as a software engineer and do mainly whatever I am being asked to do, but also backend development in cloud environments and DevOps.
 
-#### 🌱 I am amazed by the beautiful things that can be done with code in 2024, and I am always looking for new things to learn and improve my skills.
+#### 🌱 I am amazed by the beautiful things that can be done with code this days, and I am always looking for new things to learn and improve my skills.
 
 #### 📜 Here are some blog posts I wrote:
 - [A Primer on Idempotence for AWS Serverless Architecture](https://www.infoq.com/articles/idempotence-aws-serverless-architecture)
